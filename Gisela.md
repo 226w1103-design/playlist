@@ -24,16 +24,19 @@ console.log("Hola Git");
 - Antes de Perderte - Duki
 - Electrica - Tiago PZK y IZA
 - Vida de Rock - Duki y Milo J
+- GiGi - Duki
 
 ## Salsa 
 - Me Hace Daño Verte - Fresto Music
 - Yo No Se Mañana - Luis Enrique
 - Baile Inolvidable - Bad Bunny
+- Deseandote - Frankie Ruiz
 
 ## Rap 
 - Mis Defectos - Mc Davo
 - Asi Me Encula - Sandro Malandro
 - Debes de Saber - Mc Davo
+- Ella Se Fue - Porta
 
 
 
